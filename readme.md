@@ -9,4 +9,4 @@
  php -S localhost:8000
 ```
 
-- Open Browser and go to localhost:800
+- Open Browser and go to localhost:8000
