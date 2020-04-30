@@ -1,0 +1,15 @@
+body {
+  background-image: url("./images/backgroud.jpeg");
+  background-image-resize: 6;
+  background-image-resolution: from-image;
+}
+
+.container {
+  padding-top: 200px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  padding-right: 30px;
+  border: 1em;
+  border-color: red solid !important;
+  text-align: center;
+}
